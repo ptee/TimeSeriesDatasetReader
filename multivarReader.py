@@ -251,7 +251,7 @@ class MultivarReader(object):
     
     
     def minMaxMeanSeqLength(self, train=True):
-        """ Look into the training/testing data to get min/max of the sequence length.
+        """ Look into the training/testing data to get minimum, maximum, and average of the sequence length.
         
         Parameters
         ----------
@@ -345,7 +345,7 @@ class MultivarReader(object):
         Returns
         --------
         string
-            A string of the given list
+            A formated string of the given list
         """
         msg = ''
         for v in values:
