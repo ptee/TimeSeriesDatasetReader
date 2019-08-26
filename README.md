@@ -13,8 +13,7 @@
   * "Dimensionality Reduction for Visualization of Time Series and Trajectories" (https://link.springer.com/chapter/10.1007/978-3-030-20205-7_21), In the 21st Scandinavian Conference on Image Analysis (SCIA), pages: 246-257, 2019.
    
 
-    The characteristics of 15 datasets and their error rates in ten classifiers ("A Very Concise Feature Representation For Time Series Classification Understanding")
+    The characteristics of 15 datasets and their error rates in ten classifiers from "A Very Concise Feature Representation For Time Series Classification Understanding".
     
-    <object data="doc/dataset+results.pdf" type="application/pdf" width="700px" height="300px">
-    <embed src="doc/dataset+results.pdf"></embed>
-    </object>
+    ![dataset+results](doc/dataset+results.png)
+ 
