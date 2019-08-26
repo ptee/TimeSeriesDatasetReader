@@ -6,7 +6,7 @@
   
   
   Mustafa Baydogan's MTS datasets can be obtained from:
-  http://www.mustafabaydogan.com/files/viewdownload/20-data-sets/69-multivariate-time-series-classification-data-sets-in-matlab-format.html
+  http://www.mustafabaydogan.com/files/viewdownload/20-data-sets/69-multivariate-time-series-classification-data-sets-in-matlab-format.html or contact [Mustafa Baydogan](http://www.mustafabaydogan.com).
 
   These datasets was used in 
   * [A Very Concise Feature Representation For Time Series Classification Understanding](https://ieeexplore.ieee.org/document/8757981), In the 16th International Conference on Machine Vision Applications (MVA), 2019, and 
