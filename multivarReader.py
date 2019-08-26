@@ -341,6 +341,11 @@ class MultivarReader(object):
         ----------
         values : list
             A list
+            
+        Returns
+        --------
+        string
+            A string of the given list
         """
         msg = ''
         for v in values:
