@@ -2,7 +2,7 @@
 
 * multivarReader.py
 
-  Read multivariate time series (MTS) datasets used by [Mustafa Baydogan](https://asu.pure.elsevier.com/en/publications/time-series-representation-and-similarity-based-on-local-autopatt-2). His archive becomes widely used in the community for benchmarking multivariate time series classification. The archive consists of 15 datasets in "mat" format, therefore, multivarReader.py will read the data and return the data as the python list. This is because the sequence length of each instance in the same dataset can be in arbitrary lengths. 
+  Read multivariate time series (MTS) datasets collected by [Mustafa Baydogan](https://asu.pure.elsevier.com/en/publications/time-series-representation-and-similarity-based-on-local-autopatt-2). His archive becomes widely used in the community for benchmarking multivariate time series classification. The archive consists of 15 datasets in "mat" format, therefore, multivarReader.py will read the data and return the data as the python list. This is because the sequence length of each instance in the same dataset can be in arbitrary lengths. 
   
   
   Mustafa Baydogan's MTS datasets can be obtained from:
